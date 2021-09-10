@@ -1,0 +1,6 @@
+com\example\demo\DemoQualityApplicationTests.class
+com\example\demo\unit\services\crud\EmpleadoServiceImplTest.class
+com\example\demo\util\ScopeUtilTest.class
+com\example\demo\unit\controller\NominaDeSueldoControllerTest.class
+com\example\demo\unit\services\crud\RegistroSalarioEmpleadoServiceImplTest.class
+com\example\demo\unit\services\INominaDeSueldoServiceImplTest.class
