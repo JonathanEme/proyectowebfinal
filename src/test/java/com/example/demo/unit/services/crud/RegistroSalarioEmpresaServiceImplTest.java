@@ -1,15 +1,11 @@
 package com.example.demo.unit.services.crud;
 
-import com.example.demo.repositories.RegistroSalarioEmpleadoRepository;
-import com.example.demo.services.crud.impl.RegistroSalarioEmpleadoServiceImpl;
-import org.aspectj.lang.annotation.Before;
 import org.junit.jupiter.api.BeforeEach;
 import org.junit.jupiter.api.Test;
-import org.mockito.ArgumentCaptor;import org.mockito.InjectMocks;
+import org.mockito.InjectMocks;
 import org.mockito.Mock;
-import org.mockito.MockitoAnnotations;
 
-public class RegistroSalarioEmpleadoServiceImplTest {
+public class RegistroSalarioEmpresaServiceImplTest {
 
     @Mock
     private RegistroSalarioEmpleadoRepository registroSalarioEmpleadoRepository;

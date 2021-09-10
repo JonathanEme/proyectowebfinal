@@ -1,14 +1,12 @@
 package com.example.demo.unit.services.crud;
 
 
-import com.example.demo.repositories.EmpleadoRepository;
-import com.example.demo.services.crud.impl.EmpleadoServiceImpl;
 import org.junit.Test;
 import org.mockito.Mock;
 import org.springframework.beans.factory.annotation.Autowired;
 
 
-public class EmpleadoServiceImplTest {
+public class EmpresaServiceImplTest {
 
     @Mock
     EmpleadoRepository empleadoRepository;
